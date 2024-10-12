@@ -1,4 +1,4 @@
-//hamburger  menu
+//hamburger  menu part
 let ham = document.querySelector(".ham");
 let navigation = document.querySelector(".navigation");
 
